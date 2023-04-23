@@ -1,0 +1,32 @@
+h1 {
+    font-family: 'Poltawski Nowy', serif;
+}
+
+h2 {
+    font-family: 'Poltawski Nowy', serif;
+}
+
+p {
+    font-family: 'Marcellus', serif;
+    line-height: 1.5;
+}
+
+.Tucumán {
+    background-color: rgb(213, 240, 166);
+}
+
+.Producción {
+    background-color: #7ee8fa;
+    background-image: linear-gradient(315deg, #7ee8fa 0%, #80ff72 74%);
+
+}
+
+.historia {
+    background-color: #118ab2;
+    background-image: linear-gradient(319deg, #118ab2 0%, #06d6a0 37%, #ffd166 100%);
+
+}
+
+.turismo {
+    background-color: navajowhite;
+}
